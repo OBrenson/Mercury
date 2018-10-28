@@ -1,0 +1,166 @@
+@font-face {
+    font-family: Gotham;
+    src: url(fonts/GothamPro-Bold.eot);
+    src: local(pompadur), url(fonts/GothamPro-Bold.ttf);
+}
+div{
+    display: block;
+}
+#all{
+    margin-top: 120px;
+}
+body{
+    background-image: url(img/rectangle-2.png);
+    background-repeat: no-repeat;
+    -o-background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.background {
+    object-fit: contain;
+}
+.W-Mercury-Development {
+    margin: -12% 0 0 23%;
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+}
+.Rectangle-3 {
+    -moz-box-sizing:border-box;
+    box-sizing: border-box;
+    padding-top: 5%;
+    left: 0px;
+    position: absolute;
+    margin: 0 0 0 7%;
+    width: 87%;
+    height: 50%;
+    /*height: 409px;*/
+    border-radius: 8px;
+    box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.15);
+    background-color: #ffffff;
+    padding-bottom: 60px;
+}
+.Log-In {
+
+    width: 40%;
+    height: 24px;
+    opacity: 0.8;
+    font-family: Gotham;
+    font-size: 48px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #262626;
+}
+.Rectangle-4 {
+    padding: 14px 0 14px 16px;
+    margin-left: 8%;
+    border: none;
+    width: 84%;
+    height: 100px;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    -moz-box-sizing:border-box;
+    box-sizing: border-box;
+}
+.inemail{
+    margin-top: 48px
+}
+.inpass{
+    margin-top: 32px
+}
+.Rectangle-7 {
+    border: none;
+    margin: 40px 72px 0 35%;
+    width: 30%;
+    height: 15%;
+    border-radius: 100px;
+    box-shadow: 0 4px 16px 0 rgba(237, 65, 89, 0.4);
+    background-color: #ed4159;
+}
+.Text {
+    width: 82px;
+    height: 16px;
+    font-family: Gotham;
+    font-size: 34px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+::-moz-placeholder {
+    width: 124px;
+    height: 20px;
+    opacity: 0.4;
+    font-family: Gotham;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #262626;
+}
+input {
+    width: 124px;
+    height: 20px;
+    opacity: 0.8;
+    font-family: Gotham;
+    font-size: 34px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #262626;
+}
+.Rectangle {
+    padding: 14px 0 14px 16px;
+    margin: 32px 0 0 48px;
+    width: 503px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: rgba(237, 65, 89, 0.25);
+    -moz-box-sizing:border-box;
+    box-sizing: border-box;
+}
+.E-Mail-or-password-i {
+    width: 377px;
+    height: 20px;
+    font-family: Gotham;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ed4159;
+}
+.Oval-2 {
+    margin: 48px 236px 40px 40%;
+    width: 128px;
+    height: 128px;
+    border: solid 1px #979797;
+}
+.Helena-Joseph {
+    margin-left: 194px;
+    width: 212px;
+    height: 34px;
+    opacity: 0.8;
+    font-family: Gotham;
+    font-size: 48px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.2px;
+    text-align: center;
+    color: #262626;
+}
